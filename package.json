@@ -1,25 +1,25 @@
 {
-  "publisher": "antfu",
-  "name": "iconify",
-  "displayName": "Iconify IntelliSense",
+  "publisher": "kvoon3",
+  "name": "iconify-fork",
+  "displayName": "Iconify IntelliSense Fork",
   "type": "commonjs",
   "version": "0.8.1",
   "private": true,
   "packageManager": "pnpm@9.0.6",
   "description": "Intelligent Iconify previewing and searching for VS Code",
   "license": "MIT",
-  "homepage": "https://github.com/antfu/vscode-iconify",
+  "homepage": "https://github.com/kvoon3/vscode-iconify-fork",
   "repository": {
     "type": "git",
-    "url": "https://github.com/antfu/vscode-iconify"
+    "url": "https://github.com/kvoon3/vscode-iconify-fork"
   },
-  "bugs": "https://github.com/antfu/vscode-iconify/issues",
+  "bugs": "https://github.com/kvoon3/vscode-iconify-fork/issues",
   "keywords": [
     "icons",
     "iconify"
   ],
   "sponsor": {
-    "url": "https://github.com/sponsors/antfu"
+    "url": "https://github.com/sponsors/kvoon3"
   },
   "preview": true,
   "categories": [
